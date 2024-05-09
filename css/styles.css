@@ -1,0 +1,17 @@
+form-group{
+    display:flex;
+    flex-direction:column;
+    width:35vw;
+  }
+  form-group input{
+    padding:0.7em 1em;
+  }
+  form-group span{
+    padding:0.6em 1em;
+  }
+  form-group > button{
+    padding:1.1em;
+    margin:1em 1em;
+    cursor:pointer;
+  }
+  
